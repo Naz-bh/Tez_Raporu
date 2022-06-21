@@ -1,3 +1,3 @@
 # Kindergarten Management & Information System Mobile Application
 
-# Please check the doc file.
+# Please check the document.
